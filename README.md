@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Indubitable-Industries/.github/indub3root.png" width="100" alt="Indubitable Industries" />
+  <img src="indub3root.png" width="100" alt="Indubitable Industries" />
 </p>
 
 <h1 align="center">Indubitable Industries</h1>
