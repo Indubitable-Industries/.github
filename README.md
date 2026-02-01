@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://indubitableindustries.ai">Website</a> •
   <a href="https://github.com/Indubitable-Industries/bayence">Bayence</a> •
-  <a href="mailto:dan@bayence.com">Contact</a>
+  <a href="mailto:dan@indubitableindustries.ai">Contact</a>
 </p>
 
 ---
